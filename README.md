@@ -1,3 +1,15 @@
+# Notice
+
+This is a fork of Keith Smiley's project, and its only difference (at
+this point) is the use of a different indent file as his was causing lots of
+issues with the Swift codebase I am working on (and no, it's not a horribly
+formatted one, so it shouldn't be a pathological example). The ['new' indent
+file](https://github.com/kballard/vim-swift) that replaces Keith's is taken from
+Kevin Ballard.
+
+In other words, I deserve no credit for owning this fork. Almost all the credit
+goes to Keith Smiley's great work, as well as Kevin Ballard for his indent file.
+
 # Swift.vim
 
 Syntax and indent files for [Swift](https://developer.apple.com/swift/)
