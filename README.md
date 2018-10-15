@@ -10,6 +10,15 @@ Kevin Ballard.
 In other words, I deserve no credit for owning this fork. Almost all the credit
 goes to Keith Smiley's great work, as well as Kevin Ballard for his indent file.
 
+There is also a small change I have made by adding a match rule for column
+widths. This is useful for highlighting lines that exceed a column width. I use
+this personally, and it is cleaner for me if the rule is set externally and all
+I have to do is set the Highlight on the match rule name, but in either case,
+this is an exceedingly minor change and I still deserve no credit.
+
+It is possible that I will make smaller changes in the future, but for the most
+part, I will just follow Keith's changes and fixes on his/the main project.
+
 # Swift.vim
 
 Syntax and indent files for [Swift](https://developer.apple.com/swift/)

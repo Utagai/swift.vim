@@ -67,3 +67,5 @@ call ale#linter#Define('swift', {
       \ 'callback': 'ale_linters#swift#swiftpm#Handle',
       \ 'lint_file': 1,
     \ })
+
+match OverLength /\%>120v.\+/
